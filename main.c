@@ -1,15 +1,5 @@
 /* p11_1.c Toggling P2.7 at 60 Hz using Timer_A0.4 PWM
  *
- *testing
- *testing
-<<<<<<< HEAD
- *Testing
- *Testing
- *Andrew Nitchman.
-=======
- *teting
- *
->>>>>>> d9d0f9f0626177a44e538518731a1ddaa39a1228
  *
  *
  */
